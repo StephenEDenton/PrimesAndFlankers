@@ -1,4 +1,4 @@
-# PrimingAndFlanking
+# PrimesAndFlankers
 
 ### Model Code for:
 
