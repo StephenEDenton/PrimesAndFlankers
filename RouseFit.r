@@ -4,7 +4,7 @@ rm(list = ls())
 
 # Set toggles
 saving = F
-fitting = T
+fitting = F
 restricted = F
 
 # Set initial values for parameters
